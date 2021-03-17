@@ -2,10 +2,11 @@
 ## I'm a beginner "Front-end DEV" 💻 <br> From Saint-petersburg 🌧️
 
 ### Languages and Technologies 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![VUE](https://img.shields.io/badge/-VUE.JS-090909?style=for-the-badge&logo=Vue.js)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 
 <!--
 **TRK08/TRK08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
