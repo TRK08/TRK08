@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![CSS](https://img.shields.io/badge/-VUE.JS-090909?style=for-the-badge&logo=vue)
+![VUE](https://img.shields.io/badge/-VUE.JS-090909?style=for-the-badge&logo=Vue.js)
 
 <!--
 **TRK08/TRK08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
