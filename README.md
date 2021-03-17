@@ -1,6 +1,5 @@
 # 👋 Hello, my name is **Roman Trofimenko**
-## I'm a beginner "Front-end DEV"
-## From Saint-petersburg
+## I'm a beginner "Front-end DEV" <br> From Saint-petersburg
 <!--
 **TRK08/TRK08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
