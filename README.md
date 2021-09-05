@@ -1,5 +1,6 @@
 # 👋 Hello, my name is **Roman Trofimenko**
-## I'm a beginner "Front-end DEV" 💻 <br> From Saint-petersburg 🌧️
+## I'm a Junior "Front-end DEV" 💻 <br> From Saint-petersburg 🌧️
+## Work in BMSGroup 
 
 ### Languages and Technologies 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
