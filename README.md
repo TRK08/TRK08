@@ -8,5 +8,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![VUE](https://img.shields.io/badge/-VUE.JS-090909?style=for-the-badge&logo=Vue.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![NodeJs](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=TypeScript)
+![Express](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=Express)
+
 
 ## You can write me in telegram: @trof_r ✉️
